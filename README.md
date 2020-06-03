@@ -35,21 +35,31 @@
 </div>
 <div>
   <h2>Helpful Terms and Definition</h2>
-GIT: <i>System software designed assist developers in coordinating 
+  GIT: <i>System software designed assist developers in coordinating 
  work by implementing system control.</i><br>
-GITHUB: <i>Web-based version control allowing developers to make
+  GITHUB: <i>Web-based version control allowing developers to make
  and view changes to the work of others.</i><br>
-Repository: <i>The location where a project resides.</i><br>
-Clone: <i>Replicating a repository from GitHub on a local machine
+  Repository: <i>The location where a project resides.</i><br>
+  Clone: <i>Replicating a repository from GitHub on a local machine
  with Git</i><br>
-Commit: <i>A revision to an individual file, which is accompanied by a 
+  Commit: <i>A revision to an individual file, which is accompanied by a 
 message describing the revision.</i><br>
-Push: <i>Uploading Commit revisions from a local machine to the 
+  Push: <i>Uploading Commit revisions from a local machine to the 
 remote Repository (GitHub).</i><br>
-Pull: <i>Request used to notify others of your own revisions.</i><br>
-Branch: <br>
-Merge: <br>
-Merge Conflict: <br>
-Fetch: <br>
-Remote: <br>
+  Pull: <i>Request used to notify others of your own revisions.</i><br>
+  Branch: <i>Also called a fork, branches are repositories that have been
+ copied from one user to another.</i><br>
+  Merge: <i>To accept modifications from a copy repository (branch)
+and incorporate them into the original repository.</i><br>
+  Merge Conflict: <i>Occurs when Git cannot resolve differences between
+ two separate commits.</i><br>
+  Fetch: <i>Git command that downloads commits and files from GitHub.</i><br>
+  Remote: <i>Common repository that team members can exchange changes.</i><i></i><br>
+</div>
+
+<div>
+  <h3>References</h3> <br>
+  Intro to GitHub Powerpoint, Arthur Hendela <br>
+  https://git-scm.com/about <br>
+  https://searchitoperations.techtarget.com/definition/GitHub
 </div>
