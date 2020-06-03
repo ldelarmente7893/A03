@@ -17,20 +17,21 @@
   to add a new Repository. Make the repository public and add the README
   file. Once you have done all this, click <strong>Create</strong>.<br><br>
   4. In WebStorm, use the VCS dropdown menu at the top of the program to
-  select Import into Version Control. Select Create Git Repository and give
-  it an appropriate name.<br><br>
+  select <strong>Import into Version Control</strong>. Select 
+  <strong>Create Git Repository</strong> and give it an appropriate name.<br><br>
   5.To import the Repository from GitHub into the newly created Git 
-  Repository, select Get From Version Control under the VCS dropdown menu
+  Repository, select <strong>Get From Version Control</strong> under the VCS dropdown menu
   and enter the URL of the Repository from GitHub.<br><br>
   6. With you Repository set up, you can add files in WebStorm using the File
   dropdown menu. Select New and the desired file format.<br><br>
   7. Once you have finished working on a file in, apply your changes using
-  the Commit button in WebStorm. The Commit message should give a brief description
+  the Commit button in WebStorm. Use the shortcut <strong>Crtl+k</strong>.
+  In addition, the Commit message should give a brief description
   of what was done to the file.<br><br>
   8. Finally, committed files can now be added to your GitHub Repository
-  using the Push function. Use the shortcut Crtl+Shift+k to bring up the
-  Push Commits window. Review all committed files before pushing them using
-  Push button. You can now see all changes on your GitHub profile.
+  using the Push function. Use the shortcut <strong>Crtl+Shift+k</strong> to bring up the
+  <strong>Push Commits window</strong>. Review all committed files before pushing them using
+  <strong>Push</strong> button. You can now see all changes on your GitHub profile.
 </div>
 <div>
   <h2>Helpful Terms and Definition</h2>
